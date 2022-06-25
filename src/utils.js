@@ -1,4 +1,1 @@
-export const URL =
-  process.env.REACT_APP_ENV === "production"
-    ? "https://costs-be.herokuapp.com"
-    : "http://localhost:8080";
+export const URL = "https://main.d38hystyh2wnut.amplifyapp.com/"
